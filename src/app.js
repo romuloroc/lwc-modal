@@ -1,9 +1,9 @@
 import { LightningElement } from "lwc";
 
 export default class App extends LightningElement {
-  modal = false;
-  
+    
   handleClick(){
+    modal = false;
     alert('clicado');
     modal = true;
   }
