@@ -1,0 +1,23 @@
+.content {
+  background-color: white;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  text-align: center;
+  gap: 16px;
+}
+
+button {
+  background-color: #2f6ff8;
+  color: #fff;
+  border-radius: 50px;
+  border: none;
+  width: 40vw;
+  height: 56px;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
